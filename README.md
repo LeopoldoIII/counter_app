@@ -1,6 +1,6 @@
 # counter_app
 
-A new Flutter project.
+A new Flutter project, following this [course](https://www.youtube.com/playlist?list=PLCKuOXG0bPi3MDPemKf-u4pI7snjWBCfw)
 
 ## Getting Started
 
