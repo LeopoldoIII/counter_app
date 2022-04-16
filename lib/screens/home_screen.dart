@@ -5,7 +5,6 @@ class HomeSreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    
     TextStyle fongSize30 = const TextStyle(fontSize: 30);
 
     return Scaffold(
@@ -18,11 +17,15 @@ class HomeSreen extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           // crossAxisAlignment: CrossAxisAlignment.center,
-          children:  <Widget>[
+          children: <Widget>[
             Text('Text 1', style: fongSize30),
             Text('Text 2', style: fongSize30),
           ],
         ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        child: const Icon(Icons.add),
+        onPressed: () {},
       ),
     );
   }
