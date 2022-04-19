@@ -2,6 +2,11 @@
 
 A new Flutter project, following this [course](https://www.youtube.com/playlist?list=PLCKuOXG0bPi3MDPemKf-u4pI7snjWBCfw)
 
+Final App 
+
+![image](https://user-images.githubusercontent.com/26559577/163922263-987d82d1-71cc-4d9a-aecf-f029096959cc.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
