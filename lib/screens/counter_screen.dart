@@ -31,7 +31,7 @@ class _CounterScreenState extends State<CounterScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('CounterScreen'),
+        title: const Text('Counter Screen'),
         backgroundColor: Colors.indigo,
         elevation: 10.0,
       ),
@@ -39,7 +39,7 @@ class _CounterScreenState extends State<CounterScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text('Númemro de Clicks', style: fongSize30),
+            Text('Number of Clicks', style: fongSize30),
             Text('$counter', style: fongSize30),
           ],
         ),
